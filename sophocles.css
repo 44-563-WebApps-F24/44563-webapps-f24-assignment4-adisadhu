@@ -23,3 +23,17 @@
 .od {
     color: #4682b4; 
 }
+table{
+    width:56%;
+    border-collapse: collapse;
+
+}
+th,td{
+    border:1px solid black;
+    padding:8px;
+    text-align: center;
+
+}
+tr:nth-child(even){
+    background-color: aquamarine;
+}
