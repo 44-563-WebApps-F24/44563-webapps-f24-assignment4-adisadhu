@@ -1,11 +1,8 @@
 .speech{
-    
-
     font-family: 'Georgia', serif; 
     font-size: 18px; 
     color: black;
 }
-
 
 .direction {
     font-family: 'Courier New', monospace; 
@@ -14,26 +11,15 @@
     background-color: aquamarine; 
 }
 
-
 .direction:hover {
     background-color :black; 
     color: burlywood; 
 }
 
-
-
-.mary {
+.neo {
     color: #ff6347; 
 }
 
-.ollivant {
+.od {
     color: #4682b4; 
-}
-
-.emily {
-    color: #32cd32; 
-}
-
-
-
 }
