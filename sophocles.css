@@ -49,3 +49,20 @@ tr:nth-child(even){
     border-radius: 5px; 
     padding: 5px;
 }
+navbar {
+    background-color: #cdca21;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.navbar ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.navbar li{
+    display:inlin
+}
